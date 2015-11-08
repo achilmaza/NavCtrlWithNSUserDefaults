@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CompanyDAO openDB]:CompanyDAO.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DemoCollectionViewController longPressGestures:]:DemoCollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.companyDAO">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyDAO getReceivedData:sender:]:CompanyDAO.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.companyAndProductList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WebViewController viewDidLoad]:WebViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "webView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChildViewController tableView:moveRowAtIndexPath:toIndexPath:]:ChildViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DemoCollectionViewController collectionView:didSelectItemAtIndexPath:]:DemoCollectionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyDAO loadDataFromDB]:CompanyDAO.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.companyAndProductList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CompanyDAO moveCompany:toIndex:]:CompanyDAO.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.companyAndProductList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,68 @@
+{"companies" :  [ {"name": "Apple mobile devices", 
+                  "logo": "apple.png",
+                  "products": [ {"name": "iPad",
+                                 "logo": "appleIpad.png", 
+                                  "url": "http://www.apple.com/ipad"},
+                                { "name": "iPod Touch",
+                                  "logo": "AppleIpodTouch.jpg",
+                                   "url": "https://www.apple.com/ipod-touch/"},
+                                {"name": "iPhone",
+                                 "logo": "AppleIphone.jpg",
+                                  "url": "https://www.apple.com/iphone/"}
+                              ]
+                   },
+
+                   {"name": "LG mobile devices",
+                    "logo": "lg.png",
+                    "products": [ {"name": "Volt",
+                                   "logo": "LGVolt.jpg",
+                                    "url": "http://www.lg.com/us/cell-phones/lg-LS740-Virgin-Mobile-volt"},
+
+                                   {"name": "G Stylo",
+                                    "logo": "LGGStylo.jpg",
+                                     "url": "http://www.t-mobile.com/cell-phones/lg-g-stylo.html"},
+
+                                   {"name": "Optimus L90",
+                                    "logo": "LGOptimusL90.jpg",
+                                     "url": "http://www.lg.com/us/cell-phones/lg-D415-optimus-l90"}
+                                ]
+                   },
+
+
+                   {"name": "Nokia mobile devices",
+                    "logo": "nokia.jpg",
+                    "products": [ {"name": "Lumia 1320 RM-995",
+                                   "logo": "NokiaLumia1320.jpg",
+                                   "url": "http://www.bhphotovideo.com/c/product/1062133-REG/nokia_a00017184_lumia_1320_1_black.html"},
+                                  {"name": "Lumia 920 Win8",
+                                   "logo": "NokiaLumia920Win8.jpg",
+                                   "url": "http://www.amazon.com/Nokia-Unlocked-Smartphone-PureView-Technology/dp/B009ZC91AY"},
+                                  {"name": "Lumia 920 GSM",
+                                   "logo": "NokiaLumia920GSM.jpg",
+                                   "url": "http://www.microsoft.com/en-us/mobile/phone/lumia920/specifications/"}
+
+                                ]
+                   },
+
+
+                  {"name": "Samsung mobile devices",
+                   "logo": "samsung.png",
+                   "products": [ {"name": "Galaxy S4",
+                                  "logo": "SamsungGalaxyS4.jpg",
+                                  "url": "http://www.samsung.com/global/microsite/galaxys4/"},
+                                  {"name": "Galaxy Note",
+                                   "logo": "SamsungGalaxyNote.jpg",
+                                   "url": "http://www.samsung.com/global/microsite/galaxynote/note/index.html?type=find"},
+                                   {"name": "Galaxy Tab",
+                                    "logo": "SamsungGalaxyTab.jpg",
+                                    "url": "http://www.samsung.com/us/mobile/galaxy-tab/"}
+                               ]
+                  }
+
+
+           ]
+
+
+
+}
+
